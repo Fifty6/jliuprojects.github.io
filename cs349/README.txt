@@ -1,6 +1,0 @@
-README.txt
-
-Name:	
-Userid:	
-
-

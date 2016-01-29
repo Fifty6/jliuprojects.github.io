@@ -1,8 +1,0 @@
-{
-  "name": "OKHover",
-  "version": "1.2",
-  "main": "./src/okhover.js",
-  "dependencies": {
-    "jquery": ">1.7.2"
-  }
-}
